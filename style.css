@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url("Background.png");
+    background-size: cover;
+}
+h1{
+    color: #127091 !important;
+}
+button{
+    font-family: 'Rubik Maze', cursive !important;
+    border-radius: 60px;
+    border: 0px;
+    background-color: #ecfa00;
+    height: 50px;
+    color: #b20008 !important;
+}
+#vete_pal_lobby{
+    float: right;
+}
+h4{
+    color: white !important;
+}
+canvas{
+    background-color: white !important;
+    margin-top: 50px !important;
+}
